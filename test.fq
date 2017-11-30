@@ -1,0 +1,8 @@
+@sanger ASCII 33-126; < 59 marks as not solexa
+GCGGACCGCTTGATATCCATAAAAAAA
++sanger ASCII 33-126; < 59 marks as not solexa
+!\"#$%&'()*+,-./0123456789:
+@solexa ASCII 59-126; 59-104 realistic
+GCGCGGATCTTTAGCATTGTAGTACCGGACATAACAACAATTTTGCC
++solexa ASCII 59-126; 59-104 realistic
+;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefgh
